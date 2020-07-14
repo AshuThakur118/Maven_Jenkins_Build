@@ -1,7 +1,7 @@
 pipeline {
    agent any 
    tools {
-        maven 'C:\Users\Ashutosh\Desktop\apache-maven-3.6.3-bin' 
+        maven 'maven-3.6.3' 
     }
    
    stages {
